@@ -25,3 +25,7 @@
 [2025-04-03 21:59:07 : INFO] - Cache for URL: http://localhost/my-portfolio/ has been purged, triggered by action: save_post 
 [2025-04-03 21:59:07 : INFO] - Cache for URL: http://localhost/my-portfolio/ has been purged, triggered by action: save_post 
 [2025-04-03 21:59:09 : INFO] - Cache for URL: http://localhost/my-portfolio/ has been purged, triggered by action: save_post 
+[2025-04-03 23:07:48 : INFO] - Cache for URL: http://localhost/my-portfolio/?elementor_library=elementor-header-1429 has been purged, triggered by action: save_post 
+[2025-04-03 23:07:48 : INFO] - Cache for URL: http://localhost/my-portfolio/?elementor_library=elementor-header-1429 has been purged, triggered by action: save_post 
+[2025-04-03 23:07:48 : INFO] - Cache for URL: http://localhost/my-portfolio/?elementor_library=elementor-header-1429 has been purged, triggered by action: save_post 
+[2025-04-03 23:07:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
