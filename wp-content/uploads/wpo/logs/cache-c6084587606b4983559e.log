@@ -61,3 +61,9 @@
 [2025-04-26 08:36:47 : INFO] - Cache for URL: http://localhost/my-portfolio/ has been purged, triggered by action: save_post 
 [2025-04-26 08:36:47 : INFO] - Cache for URL: http://localhost/my-portfolio/ has been purged, triggered by action: save_post 
 [2025-04-26 08:36:49 : INFO] - Cache for URL: http://localhost/my-portfolio/ has been purged, triggered by action: save_post 
+[2025-05-23 09:31:56 : INFO] - Cache for URL: http://localhost/my-portfolio/?p=2065 has been purged, triggered by action: save_post 
+[2025-05-23 09:31:56 : INFO] - Cache for previous post (with URL: http://localhost/my-portfolio/web-development/) adjacent to post with id: 2065 has been purged, triggered by action: save_post 
+[2025-05-23 09:31:56 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-05-23 16:11:49 : INFO] - Cache for URL: http://localhost/my-portfolio/ has been purged, triggered by action: save_post 
+[2025-05-23 16:11:50 : INFO] - Cache for URL: http://localhost/my-portfolio/ has been purged, triggered by action: save_post 
+[2025-05-23 16:11:53 : INFO] - Cache for URL: http://localhost/my-portfolio/ has been purged, triggered by action: save_post 
