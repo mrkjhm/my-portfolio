@@ -744,7 +744,7 @@ function seraph_accel_siteSettInlineDetach($siteId){ return array (
         ),
       ),
     ),
-    'ctx' => false,
+    'ctx' => true,
     'ctxSkip' => false,
     'ctxSessSep' => true,
     'ctxContPr' => true,
